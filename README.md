@@ -10,4 +10,4 @@ mit Leistungsmessung aus alter 3D-Druck-Filamentspule
 
 ![Picture](https://github.com/MakeMagazinDE/Kabeltrommel/blob/main/IMG_0561.JPG) 
 
-Den vollständigen Artikel mit der Bauanleitung gibt es in der **[Make-Ausgabe 3/21 ab Seite XXX](https://www.heise.de/select/make/2021/2/2102708255450326563)** zu lesen. 
+Den vollständigen Artikel mit der Bauanleitung gibt es in der **[Make-Ausgabe 3/21 ab Seite XXX](https://www.heise.de/select/make/2021/3/2102708255450326563)** zu lesen. 
