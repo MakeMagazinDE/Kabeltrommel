@@ -6,7 +6,7 @@ Maker Media GmbH
 # Kabeltrommel
 mit Leistungsmessung aus alter 3D-Druck-Filamentspule
 
-### Diese Kabeltrommel misst Spannung, Strom, Leistung, Verbrauch owie Frequenz und den Leistungsfaktor. Die Daten werden mittels ESP8266 über Wlan übertragen und auf einer kleinen Web-Oberfläche angezeigt.
+### Diese Kabeltrommel misst Spannung, Strom, Leistung, Verbrauch sowie Frequenz und den Leistungsfaktor. Die Daten werden mittels ESP8266 über WLAN übertragen und auf einer kleinen Web-Oberfläche angezeigt.
 
 ![Picture](https://github.com/MakeMagazinDE/Kabeltrommel/blob/main/IMG_0561.JPG) 
 
