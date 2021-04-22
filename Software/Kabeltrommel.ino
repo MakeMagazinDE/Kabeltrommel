@@ -26,7 +26,6 @@ void setup() {
   Serial.println(WiFi.localIP());
 }
 void loop() {
-  // Check if a client has connected
   WiFiClient client = server.available();
   float voltage = pzem.voltage();
   float current = pzem.current();
