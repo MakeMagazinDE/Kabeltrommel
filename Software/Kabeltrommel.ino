@@ -28,9 +28,6 @@ void setup() {
 void loop() {
   // Check if a client has connected
   WiFiClient client = server.available();
-  if (!client) {
-    return;
-  }
   float voltage = pzem.voltage();
   float current = pzem.current();
   float power = pzem.power();
