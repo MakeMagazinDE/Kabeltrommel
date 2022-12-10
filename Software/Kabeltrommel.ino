@@ -1,7 +1,7 @@
 #include <ESP8266WiFi.h>
 #include <PZEM004Tv30.h>
-const char* ssid = "hbvdr";
-const char* password = "babybaer";
+const char* ssid = "IhrWLAN";
+const char* password = "IhrPasswort";
 WiFiServer server(80);
 PZEM004Tv30 pzem(D1,D2);
 
